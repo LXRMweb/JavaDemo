@@ -16,7 +16,7 @@
  * 			类对象
  * 			接口
  * 			数组*/
-package basicKnowledge;
+package datatype;
 
 public class dataType {
 	public static void main(String[] args){

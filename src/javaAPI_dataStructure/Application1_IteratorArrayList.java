@@ -2,12 +2,12 @@
  * @author lxrm
  * @date 20161113
  * @description 这个文件举例说明如何遍历集合中的元素*/
-package java_api_dataStructure.Collection.List.ArrayList;
+package javaAPI_dataStructure;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 
-public class IteratorArrayList {
+public class Application1_IteratorArrayList {
 	public static void main(String[] args){
 		ArrayList list=new ArrayList();
 		list.add("向ArrayList对象list中添加的第一个字符串");
