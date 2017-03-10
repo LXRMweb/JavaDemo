@@ -3,7 +3,7 @@
  * @date 20161113
  * @description Set是一个接口，其实现类有HashSet、TreeSet、LinkedHashSet这三种
  * 			 本程序举例说明这三种实现类的不同之处*/
-package java_api_dataStructure.Collection.Set;
+package javaAPI_dataStructure;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -11,7 +11,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Use_Set {
+public class Example4_Use_Set {
 	//往Set类型集合中添加元素
 	public static void fill(Set set){
 		set.add(Arrays.asList("one two three four five six".split(" ")));

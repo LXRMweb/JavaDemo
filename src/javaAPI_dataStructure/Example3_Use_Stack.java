@@ -9,13 +9,13 @@
  * 		peek()
  * 		empty()
  * 		search()*/
-package java_api_dataStructure.Collection.List.Vector.Stack;
+package javaAPI_dataStructure;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Stack;
 
-public class Use_Stack {
+public class Example3_Use_Stack {
 	public static void main(String[] args){
 		Stack stack=new Stack();
 		

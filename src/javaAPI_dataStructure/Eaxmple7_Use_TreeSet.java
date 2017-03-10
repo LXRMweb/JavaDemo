@@ -5,11 +5,11 @@
  * 概述：
  * 		1.存放至TreeSet类中的元素会自动排好序
  * 		2.TreeSet集合中不允许放入null值*/
-package java_api_dataStructure.Collection.Set.TreeSet;
+package javaAPI_dataStructure;
 
 import java.util.TreeSet;
 
-public class Use_TreeSet {
+public class Eaxmple7_Use_TreeSet {
 	public static void main(String[] args){
 		TreeSet set=new TreeSet();
 		set.add(12);

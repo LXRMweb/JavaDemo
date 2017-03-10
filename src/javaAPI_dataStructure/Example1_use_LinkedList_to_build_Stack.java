@@ -3,7 +3,7 @@
  * @date 20161111
  * @description 使用javaAPI中的LinkedList来实现栈这种数据结构
  * */
-package java_api_dataStructure.Collection.List.LinkedList;
+package javaAPI_dataStructure;
 
 import java.util.LinkedList;
 

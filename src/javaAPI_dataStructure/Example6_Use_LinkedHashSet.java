@@ -4,8 +4,8 @@
  * @description 这个文件简要介绍LinkedHashSet的用法
  * 概述：
  * 		1.*/
-package java_api_dataStructure.Collection.Set.LinkedHashSet;
+package javaAPI_dataStructure;
 
-public interface Use_LinkedHashSet {
+public interface Example6_Use_LinkedHashSet {
 
 }

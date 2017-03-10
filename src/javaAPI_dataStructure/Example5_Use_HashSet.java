@@ -6,12 +6,12 @@
  * 		1.HashSet类是基于HashMap实现的
  * 		2.HashSet要求放入的对象必须实现HashCode()方法，放入的对象是以hashCode码作为标识的(即作为HashMap的key的值)
  * 		3.*/
-package java_api_dataStructure.Collection.Set.HashSet;
+package javaAPI_dataStructure;
 
 import java.util.HashSet;
 import java.util.Iterator;
 
-public class Use_HashSet {
+public class Example5_Use_HashSet {
 	public static void main(String[] args){
 		HashSet set=new HashSet();
 		set.add(new Student(001,"lxrm"));
